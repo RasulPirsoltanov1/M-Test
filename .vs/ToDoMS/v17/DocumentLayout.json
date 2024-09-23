@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rasul\\source\\repos\\ToDoMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3991A953-0489-49F6-AAB7-16782E115D74}|Categories.WebAPI\\Categories.WebAPI.csproj|c:\\users\\rasul\\source\\repos\\todoms\\categories.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3991A953-0489-49F6-AAB7-16782E115D74}|Categories.WebAPI\\Categories.WebAPI.csproj|solutionrelative:categories.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0CDB9D0-B854-4A85-B4F4-3A95ACF8CFA5}|Ocelot.Gateway.WebAPI\\Ocelot.Gateway.WebAPI.csproj|c:\\users\\rasul\\source\\repos\\todoms\\ocelot.gateway.webapi\\ocelot.gateway.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C0CDB9D0-B854-4A85-B4F4-3A95ACF8CFA5}|Ocelot.Gateway.WebAPI\\Ocelot.Gateway.WebAPI.csproj|solutionrelative:ocelot.gateway.webapi\\ocelot.gateway.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0CDB9D0-B854-4A85-B4F4-3A95ACF8CFA5}|Ocelot.Gateway.WebAPI\\Ocelot.Gateway.WebAPI.csproj|c:\\users\\rasul\\source\\repos\\todoms\\ocelot.gateway.webapi\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C0CDB9D0-B854-4A85-B4F4-3A95ACF8CFA5}|Ocelot.Gateway.WebAPI\\Ocelot.Gateway.WebAPI.csproj|solutionrelative:ocelot.gateway.webapi\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3991A953-0489-49F6-AAB7-16782E115D74}|Categories.WebAPI\\Categories.WebAPI.csproj|c:\\users\\rasul\\source\\repos\\todoms\\categories.webapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3991A953-0489-49F6-AAB7-16782E115D74}|Categories.WebAPI\\Categories.WebAPI.csproj|solutionrelative:categories.webapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0CDB9D0-B854-4A85-B4F4-3A95ACF8CFA5}|Ocelot.Gateway.WebAPI\\Ocelot.Gateway.WebAPI.csproj|c:\\users\\rasul\\source\\repos\\todoms\\ocelot.gateway.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0CDB9D0-B854-4A85-B4F4-3A95ACF8CFA5}|Ocelot.Gateway.WebAPI\\Ocelot.Gateway.WebAPI.csproj|solutionrelative:ocelot.gateway.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B298C7D8-AFC1-4A25-8E28-EBB09305F589}|ToDoMS.WebAPI\\ToDoMS.WebAPI.csproj|c:\\users\\rasul\\source\\repos\\todoms\\todoms.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B298C7D8-AFC1-4A25-8E28-EBB09305F589}|ToDoMS.WebAPI\\ToDoMS.WebAPI.csproj|solutionrelative:todoms.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ocelot.Gateway.WebAPI",
+              "DocumentMoniker": "C:\\Users\\rasul\\source\\repos\\ToDoMS\\Ocelot.Gateway.WebAPI\\Ocelot.Gateway.WebAPI.csproj",
+              "RelativeDocumentMoniker": "Ocelot.Gateway.WebAPI\\Ocelot.Gateway.WebAPI.csproj",
+              "ToolTip": "C:\\Users\\rasul\\source\\repos\\ToDoMS\\Ocelot.Gateway.WebAPI\\Ocelot.Gateway.WebAPI.csproj",
+              "RelativeToolTip": "Ocelot.Gateway.WebAPI\\Ocelot.Gateway.WebAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-23T17:35:26.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ocelot.json",
+              "DocumentMoniker": "C:\\Users\\rasul\\source\\repos\\ToDoMS\\Ocelot.Gateway.WebAPI\\ocelot.json",
+              "RelativeDocumentMoniker": "Ocelot.Gateway.WebAPI\\ocelot.json",
+              "ToolTip": "C:\\Users\\rasul\\source\\repos\\ToDoMS\\Ocelot.Gateway.WebAPI\\ocelot.json",
+              "RelativeToolTip": "Ocelot.Gateway.WebAPI\\ocelot.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-23T17:34:04.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\rasul\\source\\repos\\ToDoMS\\Categories.WebAPI\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Categories.WebAPI\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\rasul\\source\\repos\\ToDoMS\\Categories.WebAPI\\Models\\Category.cs",
+              "RelativeToolTip": "Categories.WebAPI\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T17:22:14.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rasul\\source\\repos\\ToDoMS\\ToDoMS.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ToDoMS.WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\rasul\\source\\repos\\ToDoMS\\ToDoMS.WebAPI\\Program.cs",
+              "RelativeToolTip": "ToDoMS.WebAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T15:40:02.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rasul\\source\\repos\\ToDoMS\\Categories.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Categories.WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\rasul\\source\\repos\\ToDoMS\\Categories.WebAPI\\Program.cs",
+              "RelativeToolTip": "Categories.WebAPI\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACYAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T15:39:58.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rasul\\source\\repos\\ToDoMS\\Ocelot.Gateway.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Ocelot.Gateway.WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\rasul\\source\\repos\\ToDoMS\\Ocelot.Gateway.WebAPI\\Program.cs",
+              "RelativeToolTip": "Ocelot.Gateway.WebAPI\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T15:08:46.752Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DLZZ5emfCK/ZuDsC86gd3ziGkf6vcS0AbLFmtK63zwE=",
+  "Source": "ToDoMS.WebAPI",
+  "BasePath": "_content/ToDoMS.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
